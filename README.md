@@ -1,8 +1,4 @@
----
-languages: python
-tags: text analysis
-level: 3, advanced
----
+
 #More Text Analysis with ALICE
 <img src="https://girlsunderground.files.wordpress.com/2014/11/2873125085_239aa74ba2.jpg" width="200px" align="right" hspace="10">
 
