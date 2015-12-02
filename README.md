@@ -14,3 +14,5 @@ Take the [Alice in Wonderland](https://github.com/learn-co-curriculum/cssi-5-pyt
 4. How does your detector handle text in languages other than English? If you used Project Gutenberg as your training data, how well does your detector handle more modern texts like blog posts or tweets?
 5. Feed the detector one of your term papers from your senior year; are you human? How do you feel about the result?
 6. Read about [Searle's Chinese Box](https://en.wikipedia.org/wiki/Chinese_room).
+
+<a href='https://learn.co/lessons/cssi-5-python-stretch-alice-challenge-2' data-visibility='hidden'>View this lesson on Learn.co</a>
