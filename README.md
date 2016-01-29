@@ -15,4 +15,4 @@ Take the [Alice in Wonderland](https://github.com/learn-co-curriculum/cssi-5-pyt
 5. Feed the detector one of your term papers from your senior year; are you human? How do you feel about the result?
 6. Read about [Searle's Chinese Box](https://en.wikipedia.org/wiki/Chinese_room).
 
-<a href='https://learn.co/lessons/cssi-5-python-stretch-alice-challenge-2' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/cssi-5-python-stretch-alice-challenge-2' title='More Text Analysis with ALICE'>More Text Analysis with ALICE</a> on Learn.co and start learning to code for free.</p>
